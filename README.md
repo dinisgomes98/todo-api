@@ -1,4 +1,4 @@
-# Todo API
+## Todo API
 
 A simple REST API built with FastAPI.
 
