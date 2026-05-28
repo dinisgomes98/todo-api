@@ -1,0 +1,24 @@
+# Todo API
+
+A simple REST API built with FastAPI.
+
+## Features
+
+- Create tasks
+- Read tasks
+- Update tasks
+- Delete tasks
+
+## Tech Stack
+
+- Python
+- FastAPI
+- Uvicorn
+
+## Purpose
+
+This project was built to learn:
+
+- FastAPI
+- Backend development
+- API structure and routing
