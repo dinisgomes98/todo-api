@@ -1,24 +1,62 @@
-## Todo API
+# Todo API
 
 A simple REST API built with FastAPI.
 
 ## Features
 
-- Create tasks
-- Read tasks
-- Update tasks
-- Delete tasks
+- REST API built with FastAPI
+- Modular route structure
+- SQLAlchemy ORM integration
+- SQLite database
+- Pydantic schemas
+- CRUD endpoint structure
+- Request/response validation
 
 ## Tech Stack
 
 - Python
 - FastAPI
+- SQLAlchemy
+- SQLite
+- Pydantic
 - Uvicorn
+
+## Project Structure
+
+```text
+api/
+├── models/
+├── routes/
+├── schemas/
+└── database.py
+
+src/
+└── main.py
+```
 
 ## Purpose
 
-This project was built to learn:
+This project was built to practice:
 
-- FastAPI
 - Backend development
-- API structure and routing
+- REST APIs
+- FastAPI
+- SQLAlchemy ORM
+- Database integration
+- API architecture
+- Request validation
+- Modular project structure
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the server:
+
+```bash
+python main.py
+```
