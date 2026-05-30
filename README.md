@@ -49,6 +49,13 @@ This project was built to practice:
 
 ## How to Run
 
+Create and activate virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
 Install dependencies:
 
 ```bash
