@@ -4,13 +4,13 @@ A simple REST API built with FastAPI.
 
 ## Features
 
-- REST API built with FastAPI
-- Modular route structure
+- FastAPI REST API
 - SQLAlchemy ORM integration
 - SQLite database
-- Pydantic schemas
-- CRUD endpoint structure
-- Request/response validation
+- Full CRUD operations
+- Request validation with Pydantic
+- Modular architecture
+- Error handling with HTTPException
 
 ## Tech Stack
 
